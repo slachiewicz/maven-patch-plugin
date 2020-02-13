@@ -68,7 +68,7 @@ under the License.
   </distributionManagement>
 
   <properties>
-    <mavenVersion>2.2.1</mavenVersion>
+    <mavenVersion>3.6.3</mavenVersion>
   </properties>
 
   <dependencies>
